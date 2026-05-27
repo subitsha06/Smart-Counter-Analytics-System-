@@ -50,7 +50,17 @@ The system tracks:
 - Average service time
 - Average idle time
 - Timestamp logging
+## Hardware Demonstration
 
+### 🟢 Counter Free State
+
+![Free State](<img width="1600" height="1204" alt="counter_free" src="https://github.com/user-attachments/assets/f0570b09-c4cd-4553-b650-730ba035fc4e" />
+)
+
+### 🔴 Counter Occupied State
+
+![Busy State](<img width="1600" height="1204" alt="counter_busy" src="https://github.com/user-attachments/assets/bd9197fb-98db-4a4a-a471-1ddea0f88fc0" />
+)
 ## 📁 Future Improvements
 
 - Multi-counter support

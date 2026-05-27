@@ -54,13 +54,13 @@ The system tracks:
 
 ### 🟢 Counter Free State
 
-![Free State](<img width="1600" height="1204" alt="counter_free" src="https://github.com/user-attachments/assets/f0570b09-c4cd-4553-b650-730ba035fc4e" />
-)
+<img width="1600" height="1204" alt="counter_free" src="https://github.com/user-attachments/assets/bf5aa7d0-20c2-4472-8a22-184e59786a28" />
+
 
 ### 🔴 Counter Occupied State
 
-![Busy State](<img width="1600" height="1204" alt="counter_busy" src="https://github.com/user-attachments/assets/bd9197fb-98db-4a4a-a471-1ddea0f88fc0" />
-)
+<img width="1600" height="1204" alt="counter_busy" src="https://github.com/user-attachments/assets/8e5578b9-a68b-4d98-bd72-cbebf07e35a5" />
+
 ## 📁 Future Improvements
 
 - Multi-counter support

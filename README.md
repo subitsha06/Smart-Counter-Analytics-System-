@@ -1,5 +1,4 @@
-# Smart-Counter-Analytics-System-
-Smart counter monitoring and analytics system using Arduino and Python with real-time dashboard and service tracking.
+
 # Smart Counter Analytics System
 
 A smart counter management and analytics system built using Arduino and Python.
